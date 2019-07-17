@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/elasticsearch/elasticsearch/7.2.0/elasticsearch-7.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/elasticsearch/elasticsearch-core/7.2.0/elasticsearch-core-7.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/elasticsearch/elasticsearch-secure-sm/7.2.0/elasticsearch-secure-sm-7.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/elasticsearch/elasticsearch-x-content/7.2.0/elasticsearch-x-content-7.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar" sourcepath="M2_REPO/org/yaml/snakeyaml/1.17/snakeyaml-1.17-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.8.11/jackson-core-2.8.11.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/dataformat/jackson-dataformat-smile/2.8.11/jackson-dataformat-smile-2.8.11.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.8.11/jackson-dataformat-yaml-2.8.11.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.8.11/jackson-dataformat-cbor-2.8.11.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/elasticsearch/elasticsearch-geo/7.2.0/elasticsearch-geo-7.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-core/8.0.0/lucene-core-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-analyzers-common/8.0.0/lucene-analyzers-common-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-backward-codecs/8.0.0/lucene-backward-codecs-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-grouping/8.0.0/lucene-grouping-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-highlighter/8.0.0/lucene-highlighter-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-join/8.0.0/lucene-join-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-memory/8.0.0/lucene-memory-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-misc/8.0.0/lucene-misc-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-queries/8.0.0/lucene-queries-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-queryparser/8.0.0/lucene-queryparser-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-sandbox/8.0.0/lucene-sandbox-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-spatial/8.0.0/lucene-spatial-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-spatial-extras/8.0.0/lucene-spatial-extras-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-spatial3d/8.0.0/lucene-spatial3d-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-suggest/8.0.0/lucene-suggest-8.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/elasticsearch/elasticsearch-cli/7.2.0/elasticsearch-cli-7.2.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/net/sf/jopt-simple/jopt-simple/5.0.2/jopt-simple-5.0.2.jar" sourcepath="M2_REPO/net/sf/jopt-simple/jopt-simple/5.0.2/jopt-simple-5.0.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/carrotsearch/hppc/0.7.1/hppc-0.7.1.jar" sourcepath="M2_REPO/com/carrotsearch/hppc/0.7.1/hppc-0.7.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/joda-time/joda-time/2.10.2/joda-time-2.10.2.jar" sourcepath="M2_REPO/joda-time/joda-time/2.10.2/joda-time-2.10.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/tdunning/t-digest/3.2/t-digest-3.2.jar" sourcepath="M2_REPO/com/tdunning/t-digest/3.2/t-digest-3.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hdrhistogram/HdrHistogram/2.1.9/HdrHistogram-2.1.9.jar" sourcepath="M2_REPO/org/hdrhistogram/HdrHistogram/2.1.9/HdrHistogram-2.1.9-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-api/2.11.1/log4j-api-2.11.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/elasticsearch/jna/4.5.1/jna-4.5.1.jar" sourcepath="M2_REPO/org/elasticsearch/jna/4.5.1/jna-4.5.1-sources.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
